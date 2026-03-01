@@ -1,0 +1,6 @@
+{
+  "parent": "mincraft:item/generated",
+  "textures": {
+    "layer0": "brods_breeding_mod:item/gender_checker"
+  }
+}
